@@ -69,13 +69,13 @@ Below are the models used in this current version of the Museum and the username
 # Future Improvements
 We recognize that the game has areas for improvement. 
 
-First, we would like to improve the overall design of the Museum's interior and possibly experiment with an exterior section for the museum. We'd be able to do this with further experimentation of Models, Prefaces, and Mesh Textures.
+- First, we would like to improve the overall design of the Museum's interior and possibly experiment with an exterior section for the museum. We'd be able to do this with further experimentation of Models, Prefaces, and Mesh Textures.
 
-Second, we would also like to include as many model designs as possible to make this an ultimate, comprehensive collection of models, perhaps for each following semester (e.g: Fall 2024, Spring 2025, etc).
+- Second, we would also like to include as many model designs as possible to make this an ultimate, comprehensive collection of models, perhaps for each following semester (e.g: Fall 2024, Spring 2025, etc).
 
-Third, we were experimenting with interactive features, the main one being a pop-out display of information pertaining to the art/model that was interacted with. Such information may include details such as a description of the item, its creator, etc.
+- Third, we were experimenting with interactive features, the main one being a pop-out display of information pertaining to the art/model that was interacted with. Such information may include details such as a description of the item, its creator, etc.
 
-Fourth, we could also improve the movement and its cohesion with the environment, as we do realize the movement going up stairs is not as smooth as we'd like it to be, and there isn't much friction in the main player, as they accelerate.
+- Fourth, we could also improve the movement and its cohesion with the environment, as we do realize the movement going up stairs is not as smooth as we'd like it to be, and there isn't much friction in the main player, as they accelerate.
 
 
 # Authors and acknowledgment
